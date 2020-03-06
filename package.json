@@ -1,0 +1,13 @@
+{
+  "name": "frameioCypressTests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "download-extension": "ced gleekbfjekiniecknbkamfmkohkpodhe extensions/ignore-x-frame-headers",
+    "test": "echo \"Error: no test specified\" && exit 1"},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+ 
